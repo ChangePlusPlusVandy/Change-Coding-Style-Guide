@@ -9,11 +9,15 @@
   - S3 - cloud storage
 - HTML/CSS
 - GitHub - for code redistribution
-- Jira, GroupMe, Bootcamp- for team and project management
+
+## Team Management Tools
+- Jira
+- GroupMe
+- Bootcamp
 
 ## General Rules
 - Use a maximum line width of 80-100 characters
-- Comments should be Javadoc-style and consistent 
+- Comments should be consistent
 - Indents should be five spaces
 - Constants should be fully capitalized
 - All other portions of code should be in camel case
@@ -29,7 +33,6 @@
 ## Code Cleanup
 - C++ - clang-format
 - Javascript - ESLint
-Anyone have experience with this?
 https://medium.com/@RossWhitehouse/setting-up-eslint-in-react-c20015ef35f7
 https://medium.com/fantageek/setting-up-eslint-and-editorconfig-in-react-native-projects-31b4d9ddd0f6
 
