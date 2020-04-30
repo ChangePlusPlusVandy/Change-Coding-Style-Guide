@@ -2,12 +2,12 @@
 
 ## Our Languages & Technologies
 - JavaScript
+- HTML/CSS
 - React Native - for mobile applications
 - AWS - for database storage and more
   - RDS - relational database service
   - EC2 - virtual cloud servers
   - S3 - cloud storage
-- HTML/CSS
 - GitHub - for code redistribution
 
 ## Team Management Tools
@@ -17,7 +17,6 @@
 
 ## General Rules
 - Use a maximum line width of 80-100 characters
-- Comments should be consistent
 - Indents should be five spaces
 - Constants should be fully capitalized
 - All other portions of code should be in camel case
@@ -29,6 +28,8 @@
   - User tutorial
   - Names/contacts of contributors
   - Update history (if relevant)
+  
+## Commenting
 
 ## Code Cleanup
 - C++ - clang-format
