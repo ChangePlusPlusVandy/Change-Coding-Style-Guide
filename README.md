@@ -33,10 +33,11 @@ Anyone have experience with this?
 https://medium.com/@RossWhitehouse/setting-up-eslint-in-react-c20015ef35f7
 https://medium.com/fantageek/setting-up-eslint-and-editorconfig-in-react-native-projects-31b4d9ddd0f6
 
-## Hosting (need James’ input on this)
-
-## Specific Guides (TBA)
-- How to create an AWS application
-- How to create a React Native application
+## Hosting
+- AWS
+  - How to create an AWS application
+  - Hosting with Amplify
+- React Native
+  - How to create a React Native application
 
 
