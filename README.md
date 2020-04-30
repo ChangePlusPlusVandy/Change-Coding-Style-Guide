@@ -2,6 +2,7 @@
 
 ## Our Languages & Technologies
 - JavaScript
+  - Node.js
 - HTML/CSS
 - React Native - for mobile applications
 - AWS - for database storage and more
