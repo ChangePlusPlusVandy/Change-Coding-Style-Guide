@@ -1,15 +1,15 @@
 # Change++ Coding Style Guide
 
 ## Our Languages & Technologies
-JavaScript
-React Native - for mobile applications
-AWS - for database storage and more
-RDS - relational database service
-EC2 - virtual cloud servers
-S3 - cloud storage
-HTML/CSS
-GitHub - for code redistribution
-Jira, GroupMe, Bootcamp- for team and project management
+- JavaScript
+- React Native - for mobile applications
+- AWS - for database storage and more
+  - RDS - relational database service
+  - EC2 - virtual cloud servers
+  - S3 - cloud storage
+- HTML/CSS
+- GitHub - for code redistribution
+- Jira, GroupMe, Bootcamp- for team and project management
 
 ## General Rules
 - Use a maximum line width of 80-100 characters
