@@ -37,8 +37,8 @@
 <code>// Single line comments should be formatted like this</code><br />
 <code># Or like this (check the commenting standards of your language)</code><br />
 <code>/* While larger blocks of comments<br />
-      should be formated like this<br />
-      */</code>
+    should be formated like this<br />
+    */</code>
 
 ## Code Cleanup
 - Use linters to facilitate code cleanup:
