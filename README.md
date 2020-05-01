@@ -4,7 +4,7 @@
 - JavaScript
   - Node.js
 - HTML/CSS
-- React Native - for mobile applications
+- React / React Native - for mobile applications
 - AWS - for database storage and more
   - RDS - relational database service
   - EC2 - virtual cloud servers
@@ -22,7 +22,7 @@
 - Constants should be fully capitalized
 - All other portions of code should be in camel case
 - Start and end braces from a new line
-- Have a README in every GitHub repository with the following:
+- Have a [README](https://github.com/juyoungkim304/Change-Black-and-Latinx-Directory/blob/master/README.md) in every GitHub repository with the following:
   - Name of project
   - Summary of what it does
   - Necessary dependencies
@@ -33,16 +33,17 @@
 ## Commenting
 
 ## Code Cleanup
-- C++ - clang-format
-- Javascript - ESLint
-https://medium.com/@RossWhitehouse/setting-up-eslint-in-react-c20015ef35f7
-https://medium.com/fantageek/setting-up-eslint-and-editorconfig-in-react-native-projects-31b4d9ddd0f6
+- Use linters to facilitate code cleanup:
+  - C++ - clang-format
+  - Javascript - ESLint
+    - [Here](https://medium.com/@RossWhitehouse/setting-up-eslint-in-react-c20015ef35f7)is a guide to set up ESLint in React
+    - [Here](https://medium.com/fantageek/setting-up-eslint-and-editorconfig-in-react-native-projects-31b4d9ddd0f6) is a guide to set up ESLint in React Native
 
 ## Hosting
 - AWS
   - How to create an AWS application
   - Hosting with Amplify
-- React Native
+- React / React Native
   - How to create a React Native application
 
 
