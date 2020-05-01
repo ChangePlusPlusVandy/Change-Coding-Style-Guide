@@ -43,11 +43,10 @@
 # Or like this (check the commenting standards of your language)
 </code><br>
 
+
+
 <code>
     /* While larger blocks of comments should be commented like this. 
-</code><br>
-<code>
-       Note the block-style commenting. 
 </code><br>
 <code>
     */
