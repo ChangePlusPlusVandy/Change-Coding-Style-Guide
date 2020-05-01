@@ -44,11 +44,11 @@
 </code><br>
 
 
-'''
+```
     /* While larger blocks of comments should be commented like this. 
        Note that the comments are now in block-comment format.
     *
-'''
+```
 
 ## Code Cleanup
 - Use linters to facilitate code cleanup:
