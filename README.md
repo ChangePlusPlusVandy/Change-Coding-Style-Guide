@@ -35,19 +35,12 @@
 - You should focus on commenting important functions or files
 - Any multi-line comments should be in block-comment format
 
-<code>
-// Single line comments should be formatted like this
-</code><br>
-
-<code>
-# Or like this (check the commenting standards of your language)
-</code><br>
-
-
 ```
-    /* While larger blocks of comments should be commented like this. 
-       Note that the comments are now in block-comment format.
-    *
+   // Single line comments should be formatted like this
+   # Or like this (check the commenting standards of your language)
+   /* While larger blocks of comments should be commented like this. 
+      Note that the comments are now in block-comment format.
+   */
 ```
 
 ## Code Cleanup
