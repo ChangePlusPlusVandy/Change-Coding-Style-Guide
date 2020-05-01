@@ -38,7 +38,7 @@
 ## Code Cleanup
 - Use linters to facilitate code cleanup:
   - C++ - clang-format
-    - [Here](https://clang.llvm.org/docs/ClangFormat.html) is a guide to set up clang-format on a variety of IDEs.
+    - [Here](https://clang.llvm.org/docs/ClangFormat.html) is a guide to set up clang-format on a variety of IDEs
   - Javascript - ESLint
     - [Here](https://medium.com/@RossWhitehouse/setting-up-eslint-in-react-c20015ef35f7) is a guide to set up ESLint in React
     - [Here](https://medium.com/fantageek/setting-up-eslint-and-editorconfig-in-react-native-projects-31b4d9ddd0f6) is a guide to set up ESLint in React Native
