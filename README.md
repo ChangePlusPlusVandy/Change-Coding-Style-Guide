@@ -37,7 +37,9 @@
 
 ```
    // Single line comments should be formatted like this
+   
    # Or like this (check the commenting standards of your language)
+   
    /* While larger blocks of comments should be commented like this. 
       Note that the comments are now in block-comment format.
    */
