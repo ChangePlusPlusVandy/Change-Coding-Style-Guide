@@ -25,8 +25,8 @@
 - Have a [README](https://github.com/juyoungkim304/Change-Black-and-Latinx-Directory/blob/master/README.md) in every GitHub repository with the following:
   - Name of project
   - Summary of what it does
-  - Necessary dependencies
-  - User tutorial
+  - Necessary dependencies and installation tutorial
+  - Outline of application features
   - Names/contacts of contributors
   - Update history (if relevant)
   
@@ -34,6 +34,10 @@
 - Avoid over or under commenting - the goal is to clearly explain what your code does with the least amount of text!
 - You should focus on commenting important functions or files
 - Any multi-line comments should be in block-comment format
+<code># Single line comments should be formatted like this</code>
+<code>/* While larger blocks of comments
+      should be formated like this
+      /*</code>
 
 ## Code Cleanup
 - Use linters to facilitate code cleanup:
@@ -46,7 +50,7 @@
 ## Hosting
 - AWS
   - [Here](https://aws.amazon.com/premiumsupport/knowledge-center/create-and-activate-aws-account/) is how to create an AWS account
-  - [Here](https://aws.amazon.com/blogs/aws/host-your-apps-with-aws-amplify-console-from-the-aws-amplify-cli/) is a guide t hosting with Amplify
+  - [Here](https://aws.amazon.com/blogs/aws/host-your-apps-with-aws-amplify-console-from-the-aws-amplify-cli/) is a guide to hosting with Amplify
 - React / React Native
   - [Here](https://reactnative.dev/docs/tutorial.html) is a guide on how to create a React Native application
 
