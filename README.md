@@ -34,10 +34,10 @@
 - Avoid over or under commenting - the goal is to clearly explain what your code does with the least amount of text!
 - You should focus on commenting important functions or files
 - Any multi-line comments should be in block-comment format
-<code># Single line comments should be formatted like this</code>
-<code>/* While larger blocks of comments
-      should be formated like this
-      /*</code>
+<code># Single line comments should be formatted like this</code>  
+<code>/* While larger blocks of comments  
+      should be formated like this  
+      */</code>
 
 ## Code Cleanup
 - Use linters to facilitate code cleanup:
