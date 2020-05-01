@@ -37,12 +37,14 @@
 <code>
 // Single line comments should be formatted like this
 </code>
+
 <code>
 # Or like this (check the commenting standards of your language)
 </code>
+
 <code>
-    /*  While larger blocks of comments
-        should be formated like this
+    /* While larger blocks of comments
+      should be formated like this
     */
 </code>
 
