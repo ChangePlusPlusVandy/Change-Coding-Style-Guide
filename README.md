@@ -35,14 +35,15 @@
 ## Code Cleanup
 - Use linters to facilitate code cleanup:
   - C++ - clang-format
+    - [Here] (https://clang.llvm.org/docs/ClangFormat.html) is a guide to set up clang-format on a variety of IDEs.
   - Javascript - ESLint
-    - [Here](https://medium.com/@RossWhitehouse/setting-up-eslint-in-react-c20015ef35f7)is a guide to set up ESLint in React
+    - [Here](https://medium.com/@RossWhitehouse/setting-up-eslint-in-react-c20015ef35f7) is a guide to set up ESLint in React
     - [Here](https://medium.com/fantageek/setting-up-eslint-and-editorconfig-in-react-native-projects-31b4d9ddd0f6) is a guide to set up ESLint in React Native
 
 ## Hosting
 - AWS
-  - How to create an AWS application
-  - Hosting with Amplify
+  - [Here](https://aws.amazon.com/premiumsupport/knowledge-center/create-and-activate-aws-account/) is how to create an AWS account
+  - [Here](https://aws.amazon.com/blogs/aws/host-your-apps-with-aws-amplify-console-from-the-aws-amplify-cli/) is a guide t hosting with Amplify
 - React / React Native
   - How to create a React Native application
 
