@@ -45,7 +45,7 @@
 
 <code>
     /* While larger blocks of comments should be commented like this. 
-      Note the block-style commenting. 
+    Note the block-style commenting. 
     */
 </code>
 
