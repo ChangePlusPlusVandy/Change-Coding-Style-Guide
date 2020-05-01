@@ -45,7 +45,11 @@
 
 <code>
     /* While larger blocks of comments should be commented like this. 
+</code>
+<code>
     Note the block-style commenting. 
+</code>
+<code>
     */
 </code>
 
