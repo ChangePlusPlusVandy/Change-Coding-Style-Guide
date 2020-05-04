@@ -59,5 +59,7 @@
   - [Here](https://aws.amazon.com/blogs/aws/host-your-apps-with-aws-amplify-console-from-the-aws-amplify-cli/) is a guide to hosting with Amplify
 - React / React Native
   - [Here](https://reactnative.dev/docs/tutorial.html) is a guide on how to create a React Native application
+  
+  ![Change Logo](https://github.com/juyoungkim304/Change-Black-and-Latinx-Directory/blob/master/ChangeLogo.JPG)
 
 
