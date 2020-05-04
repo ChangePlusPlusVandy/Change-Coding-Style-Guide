@@ -19,8 +19,6 @@
 ## General Rules
 - Use a maximum line width of 80-100 characters
 - Indents should be five spaces
-- Constants should be fully capitalized
-- All other portions of code should be in camel case
 - Start and end braces from a new line
 - Have a [README](https://github.com/juyoungkim304/Change-Black-and-Latinx-Directory/blob/master/README.md) in every GitHub repository with the following:
   - Name of project
@@ -29,6 +27,12 @@
   - Outline of application features
   - Names/contacts of contributors
   - Update history (if relevant)
+
+## Naming Conventions
+- Constants should be fully capitalized
+- All other portions of code should be in camel case
+- Keep names/identifiers concise but detailed
+- Many languages have specific naming conventions - look [here](https://en.wikipedia.org/wiki/Naming_convention_(programming)) for some ideas
   
 ## Commenting
 - Avoid over or under commenting - the goal is to clearly explain what your code does with the least amount of text!
@@ -60,6 +64,6 @@
 - React / React Native
   - [Here](https://reactnative.dev/docs/tutorial.html) is a guide on how to create a React Native application
   
-  ![Change Logo](https://github.com/juyoungkim304/Change-Black-and-Latinx-Directory/blob/master/ChangeLogo.JPG)
+![Change Logo](https://github.com/juyoungkim304/Change-Black-and-Latinx-Directory/blob/master/ChangeLogo.JPG)
 
 
