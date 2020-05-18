@@ -65,8 +65,8 @@
   - [Here](https://reactnative.dev/docs/tutorial.html) is a guide on how to create a React Native application
 
 ## Project “must-includes”:
+![Change Logo](ChangeLogo.JPG)
 - Developed by Change++ and logo
-![Change Logo](https://github.com/juyoungkim304/Change-Black-and-Latinx-Directory/blob/master/assets/ChangeLogo.JPG)
 - Credit page:
   - This app was developed by Change++, a student-run organization at Vanderbilt University that builds software for nonprofits in the Nashville area and across the country. 
   - If you have a potential project, visit changeplupus.org for more details on how to contact us!
