@@ -63,7 +63,14 @@
   - [Here](https://aws.amazon.com/blogs/aws/host-your-apps-with-aws-amplify-console-from-the-aws-amplify-cli/) is a guide to hosting with Amplify
 - React / React Native
   - [Here](https://reactnative.dev/docs/tutorial.html) is a guide on how to create a React Native application
-  
+
+## Project “must-includes”:
+- Developed by Change++ and logo
 ![Change Logo](https://github.com/juyoungkim304/Change-Black-and-Latinx-Directory/blob/master/ChangeLogo.JPG)
+- Credit page:
+  - This App was developed by Change++, a student-run organization at Vanderbilt University that builds software for nonprofits in the Nashville area and across the country. 
+  - If you have a potential project, visit changeplupus.org for more details on how to contact us!
+  - With questions about this app, contact Change++ Project Manager, [insert project manager email]
+
 
 
