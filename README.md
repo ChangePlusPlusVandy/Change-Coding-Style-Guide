@@ -66,9 +66,9 @@
 
 ## Project “must-includes”:
 - Developed by Change++ and logo
-![Change Logo](https://github.com/juyoungkim304/Change-Black-and-Latinx-Directory/blob/master/ChangeLogo.JPG)
+![Change Logo](https://github.com/juyoungkim304/Change-Black-and-Latinx-Directory/blob/master/assets/ChangeLogo.JPG)
 - Credit page:
-  - This App was developed by Change++, a student-run organization at Vanderbilt University that builds software for nonprofits in the Nashville area and across the country. 
+  - This app was developed by Change++, a student-run organization at Vanderbilt University that builds software for nonprofits in the Nashville area and across the country. 
   - If you have a potential project, visit changeplupus.org for more details on how to contact us!
   - With questions about this app, contact Change++ Project Manager, [insert project manager email]
 
