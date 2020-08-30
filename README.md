@@ -69,7 +69,7 @@
 - Developed by Change++ and logo
 - Credit page:
   - This app was developed by Change++, a student-run organization at Vanderbilt University that builds software for nonprofits in the Nashville area and across the country. 
-  - If you have a potential project, visit changeplupus.org for more details on how to contact us!
+  - If you have a potential project, visit changepluplus.org for more details on how to contact us!
   - With questions about this app, contact Change++ Project Manager, [insert project manager email]
 
 
